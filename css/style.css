@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #000000;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+.page-header {
+  background-color: #EEEEEE;
+}
+
+.intro-title {
+  font-size: 50px;
+  line-height: 30px;
+  color: #000000;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+}
+
+.site-navigation-list {
+  display: inline;
+}
+
+.site-navigation-list a {
+  font-size: 16px;
+  line-height: 30px;
+  color: #000000;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.user-navigation-list a {
+  font-size: 16px;
+  line-height: 30px;
+  color: #000000;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+li {
+  list-style-type: none;
+}
