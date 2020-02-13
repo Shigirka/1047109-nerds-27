@@ -98,3 +98,51 @@ a {
   color: #000000;
   font-weight: 500;
 }
+
+h3 {
+  font-size: 24px;
+  line-height: 30px;
+  color: #000000;
+  font-weight: 500;
+}
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  font-weight: 500;
+}
+
+.about-us-title {
+  font-size: 45px;
+  line-height: 45px;
+  color: #000000;
+  font-weight: 500;
+}
+
+.contacts-details p {
+  font-size: 18px;
+  line-height: 30px;
+  color: #000000;
+  font-weight: 500;
+}
+
+.about-us-numbers td {
+  font-size: 45px;
+  line-height: 10px;
+  color: #000000;
+  font-weight: 500;
+}
+
+.about-us-text td {
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+  font-weight: 500;
+}
+address {
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+  font-weight: 500;
+}
