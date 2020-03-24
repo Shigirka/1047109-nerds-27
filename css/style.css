@@ -83,7 +83,7 @@ body {
   padding: 0;
 
   font-family: "Roboto", "Arial", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   font-weight: 400;
   color: #000000;
@@ -407,14 +407,14 @@ a {
   -webkit-box-direction: normal;
   flex-direction: column;
   width: 320px;
-  padding: 50px 51px 49px;
+  padding: 52px 51px 49px;
 
   background-color: #ffffff;
 }
 
 .contacts-details p {
   margin: 0;
-  margin-bottom: 25px;
+  margin-bottom: 27px;
 
   font-size: 18px;
   font-weight: 700;
@@ -688,8 +688,8 @@ a {
 }
 
 .services-item h3 {
-  margin: 0;
-  margin-bottom: 14px;
+  margin-top: 20px;
+  margin-bottom: 19px;
 
   font-size: 24px;
   font-weight: 700;
@@ -701,6 +701,8 @@ a {
   max-width: 260px;
   margin: 0;
   margin-bottom: 32px;
+
+  font-size: 16px;
 }
 
 .services-button {
@@ -747,6 +749,8 @@ a {
 
 .about-us-main p {
   margin: 0;
+
+  font-size: 16px;
 }
 
 .about-us-additional {
@@ -896,6 +900,10 @@ a {
   position: relative;
   top: 5px;
 }
+.partners-item .partners-borodinski {
+  position: relative;
+  top: 5px;
+}
 
 .partners-item:nth-child(4n)::after {
   display: none;
@@ -1000,7 +1008,7 @@ a {
 }
 
 .filter-form legend {
-  margin-bottom: 15px;
+  margin-bottom: 17px;
 
   font-size: 18px;
   font-weight: 700;
@@ -1021,7 +1029,7 @@ a {
 .filter-form-group li {
   display: -webkit-box;
   display: flex;
-  margin-bottom: 16px;
+  margin-bottom: 17px;
 }
 
 .filter-form-group li:last-child {
@@ -1042,6 +1050,7 @@ a {
 
   padding-left: 37px;
 
+  font-size: 16px;
   color: #283136;
 }
 
@@ -1195,7 +1204,7 @@ a {
 .sort-form {
   display: -webkit-box;
   display: flex;
-  margin-bottom: 50px;
+  margin-bottom: 52px;
 }
 
 .sort-form p {
@@ -1469,12 +1478,13 @@ input[name="sort-by-priority"]:checked + .sort-arrow path {
 
 .friends {
   width: 560px;
-  padding-top: 48px;
+  padding-top: 53px;
 }
 
 .friends-title {
+  margin-bottom: 10px;
+
   font-size: 36px;
-  line-height: 18px;
   color: #000000;
   font-weight: 500;
 }
@@ -1492,13 +1502,6 @@ input[name="sort-by-priority"]:checked + .sort-arrow path {
   font-weight: 500;
 }
 
-.contacts-details p {
-  font-size: 18px;
-  line-height: 30px;
-  color: #000000;
-  font-weight: 500;
-}
-
 .about-us-numbers {
   font-size: 45px;
   line-height: 10px;
@@ -1507,13 +1510,6 @@ input[name="sort-by-priority"]:checked + .sort-arrow path {
 }
 
 .about-us-text td {
-  font-size: 16px;
-  line-height: 18px;
-  color: #000000;
-  font-weight: 500;
-}
-
-.contacts-details p {
   font-size: 16px;
   line-height: 18px;
   color: #000000;
